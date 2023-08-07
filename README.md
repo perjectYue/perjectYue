@@ -1,6 +1,9 @@
 <p align="center">
  <h2 align="center">WELCOME To HOME</h2>
 </p>
+
+![image]( https://github.com/perjectYue/image/ko.gif)
+
   <p align="center">
     <a href="https://github.com/perjectYue/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/perjectYue/github-readme-stats/workflows/Test/badge.svg" />
