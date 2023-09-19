@@ -1,10 +1,7 @@
 <div align="center">
-  <img style="width: 550px;height: 300px;" src="./image/ko.gif"/>
+  <h1>WelCome Friends !</h1>
 </div>
   <p align="center">
-    <a href="https://github.com/perjectYue/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/perjectYue/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
     <a href="https://github.com/perjectYue/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/perjectYue/github-readme-stats" />
     </a>
@@ -32,3 +29,12 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perjectYue&show_icons=true&theme=radical)
 
+## 🚀 Demo
+
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+</a>
+
+<div>
+  暂无...
+</div>
